@@ -1,0 +1,60 @@
+Oct 06, 2024 11:00:31 AM FinanceTracker.FinanceTrackerGUI createPieChart
+INFO: Creating Pie Chart...
+Oct 06, 2024 11:00:31 AM FinanceTracker.FinanceTrackerGUI updatePieChartData
+INFO: Updating Pie Chart data...
+Oct 06, 2024 11:00:31 AM FinanceTracker.FinanceTrackerGUI updatePieChartData
+INFO: Total Income: 0.0
+Oct 06, 2024 11:00:31 AM FinanceTracker.FinanceTrackerGUI updatePieChartData
+INFO: Total Expense: 0.0
+Oct 06, 2024 11:00:31 AM FinanceTracker.FinanceTrackerGUI updatePieChartData
+INFO: Income Percentage: NaN%
+Oct 06, 2024 11:00:31 AM FinanceTracker.FinanceTrackerGUI updatePieChartData
+INFO: Expense Percentage: NaN%
+Oct 06, 2024 11:00:31 AM FinanceTracker.FinanceTrackerGUI createPieChart
+INFO: Pie Chart created successfully.
+Oct 06, 2024 11:00:31 AM FinanceTracker.FinanceTrackerGUI start
+INFO: FinanceTrackerGUI application started successfully.
+Oct 06, 2024 11:00:31 AM FinanceTracker.FinanceTrackerGUI createMenuBar
+INFO: Creating Menu Bar...
+Oct 06, 2024 11:00:31 AM FinanceTracker.FinanceTrackerGUI createMenuBar
+INFO: Menu Bar created successfully.
+Oct 06, 2024 11:00:31 AM FinanceTracker.FinanceTrackerGUI createTransactionTable
+INFO: Creating Transaction Table...
+Oct 06, 2024 11:00:31 AM FinanceTracker.FinanceTrackerGUI createTransactionTable
+INFO: Transaction Table created successfully.
+Oct 06, 2024 11:00:31 AM FinanceTracker.FinanceTrackerGUI lambda$createPieChart$22
+INFO: Transactions have changed. Updating Pie Chart data...
+Oct 06, 2024 11:00:31 AM FinanceTracker.FinanceTrackerGUI updatePieChartData
+INFO: Updating Pie Chart data...
+Oct 06, 2024 11:00:31 AM FinanceTracker.FinanceTrackerGUI updatePieChartData
+INFO: Total Income: 5000.0
+Oct 06, 2024 11:00:31 AM FinanceTracker.FinanceTrackerGUI updatePieChartData
+INFO: Total Expense: 2000.0
+Oct 06, 2024 11:00:31 AM FinanceTracker.FinanceTrackerGUI updatePieChartData
+INFO: Income Percentage: 71.43%
+Oct 06, 2024 11:00:31 AM FinanceTracker.FinanceTrackerGUI updatePieChartData
+INFO: Expense Percentage: 28.57%
+Oct 06, 2024 11:00:31 AM FinanceTracker.FinanceTrackerGUI refreshTransactionTable
+INFO: Refreshing Transaction Table...
+Oct 06, 2024 11:00:31 AM FinanceTracker.FinanceTrackerGUI refreshTransactionTable
+INFO: Transaction Table refreshed successfully.
+Oct 06, 2024 11:00:31 AM FinanceTracker.FinanceTrackerGUI loadDataFromFile
+INFO: Transactions loaded successfully from file: E:\Software Engineering\2. Java and OOP Concepts\Final Project\Final Project\OOP_Project\Project Files\FinalProject\src\main\java\FinanceTracker\data.txt
+Oct 06, 2024 11:00:32 AM FinanceTracker.FinanceTrackerGUI lambda$createTransactionTable$21
+INFO: Transaction table width changed. Setting column visibility...
+Oct 06, 2024 11:00:49 AM FinanceTracker.FinanceTrackerGUI lambda$createMenuBar$5
+INFO: User clicked Update Pie Chart menu item.
+Oct 06, 2024 11:00:49 AM FinanceTracker.FinanceTrackerGUI updatePieChart
+INFO: Updating Pie Chart...
+Oct 06, 2024 11:00:49 AM FinanceTracker.FinanceTrackerGUI updatePieChartData
+INFO: Updating Pie Chart data...
+Oct 06, 2024 11:00:49 AM FinanceTracker.FinanceTrackerGUI updatePieChartData
+INFO: Total Income: 5000.0
+Oct 06, 2024 11:00:49 AM FinanceTracker.FinanceTrackerGUI updatePieChartData
+INFO: Total Expense: 2000.0
+Oct 06, 2024 11:00:49 AM FinanceTracker.FinanceTrackerGUI updatePieChartData
+INFO: Income Percentage: 71.43%
+Oct 06, 2024 11:00:49 AM FinanceTracker.FinanceTrackerGUI updatePieChartData
+INFO: Expense Percentage: 28.57%
+Oct 06, 2024 11:00:49 AM FinanceTracker.FinanceTrackerGUI updatePieChart
+INFO: Pie Chart updated successfully.
